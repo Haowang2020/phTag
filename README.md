@@ -34,4 +34,10 @@ The input files contain scalar reader phase represented as sine/cosine and
 RSSI. The code builds the dry-baseline dual-tag D4 features, averages the eight
 saved Ridge outputs, and clips the result to pH 7--10.
 
+## HFSS model
+
+`hfss/u8_sot23_ring_pedot.aedt` is the nominal on-body antenna model used as
+the reference geometry for the Chapter 4 HFSS sweeps. It was created with
+Ansys Electronics Desktop 2025 R1 and includes the simplified layered foot
+loading used in the paper. 
 
