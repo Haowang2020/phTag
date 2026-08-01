@@ -771,7 +771,7 @@
   "source": {
     "oof_prediction_sha256": "321f108f22420669e47656e388bfeed21a8e6f9f10b791749a19db4e4fc511c4",
     "report_file_sha256": "7ed03916dd6b4adaa74fcdf63801ca057518440c91a1050509d6071d9cc48a57",
-    "report_filename": "v8m_d4_augmentation.json",
+    "report_filename": "v8m_d4_final_model_report.json",
     "report_internal_sha256": "653f60521f56e51539993c4a5eadaf33eb2d2d7c85c2143da5bacc358ce5a41e"
   }
 }
