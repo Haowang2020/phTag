@@ -48,7 +48,7 @@
       "fold_id": "loso_PERSON_TRAIN_01",
       "heldout_session_count": 48,
       "holdout_subject": "PERSON_TRAIN_01",
-      "model_id": "v8m_d4_augmented_352::loso_PERSON_TRAIN_01::outer::alpha_0.1",
+      "model_id": "v8m_d4_final_352::loso_PERSON_TRAIN_01::outer::alpha_0.1",
       "model_sha256": "3a9ea9c5e4405fb4363c6d23428fa7068905443ff8bf8ffcda01332ba38d3427",
       "preprocessing": {
         "imputation": "training-fold feature median",
@@ -138,7 +138,7 @@
       "fold_id": "loso_PERSON_TRAIN_02",
       "heldout_session_count": 48,
       "holdout_subject": "PERSON_TRAIN_02",
-      "model_id": "v8m_d4_augmented_352::loso_PERSON_TRAIN_02::outer::alpha_1",
+      "model_id": "v8m_d4_final_352::loso_PERSON_TRAIN_02::outer::alpha_1",
       "model_sha256": "8a3c4ac4bdd0798c529aff47e426c91d2764f2da1422abe929ff1333d33a48bf",
       "preprocessing": {
         "imputation": "training-fold feature median",
@@ -228,7 +228,7 @@
       "fold_id": "loso_PERSON_TRAIN_03",
       "heldout_session_count": 48,
       "holdout_subject": "PERSON_TRAIN_03",
-      "model_id": "v8m_d4_augmented_352::loso_PERSON_TRAIN_03::outer::alpha_0.1",
+      "model_id": "v8m_d4_final_352::loso_PERSON_TRAIN_03::outer::alpha_0.1",
       "model_sha256": "910ef9aad7485288318f6b21845354ed591d2034de873ae08c9fd54957bfa8c6",
       "preprocessing": {
         "imputation": "training-fold feature median",
@@ -318,7 +318,7 @@
       "fold_id": "loso_PERSON_TRAIN_04",
       "heldout_session_count": 48,
       "holdout_subject": "PERSON_TRAIN_04",
-      "model_id": "v8m_d4_augmented_352::loso_PERSON_TRAIN_04::outer::alpha_0.1",
+      "model_id": "v8m_d4_final_352::loso_PERSON_TRAIN_04::outer::alpha_0.1",
       "model_sha256": "36b97c96fac45096d90602ed54ec780dc423dc7ca70ea148ca5bcd75d3b1d644",
       "preprocessing": {
         "imputation": "training-fold feature median",
@@ -408,7 +408,7 @@
       "fold_id": "loso_PERSON_TRAIN_05",
       "heldout_session_count": 48,
       "holdout_subject": "PERSON_TRAIN_05",
-      "model_id": "v8m_d4_augmented_352::loso_PERSON_TRAIN_05::outer::alpha_0.1",
+      "model_id": "v8m_d4_final_352::loso_PERSON_TRAIN_05::outer::alpha_0.1",
       "model_sha256": "63d31241a71a9ef613124045b26b723ba2566d98bf27e697eac90bba71be454c",
       "preprocessing": {
         "imputation": "training-fold feature median",
@@ -498,7 +498,7 @@
       "fold_id": "loso_PERSON_VALIDATION_01",
       "heldout_session_count": 48,
       "holdout_subject": "PERSON_VALIDATION_01",
-      "model_id": "v8m_d4_augmented_352::loso_PERSON_VALIDATION_01::outer::alpha_0.1",
+      "model_id": "v8m_d4_final_352::loso_PERSON_VALIDATION_01::outer::alpha_0.1",
       "model_sha256": "6d7f05e0b33074e3fa814d44a7c4120ff19c0f00c1b8014960c216c9a639c94d",
       "preprocessing": {
         "imputation": "training-fold feature median",
@@ -588,7 +588,7 @@
       "fold_id": "loso_PERSON_VALIDATION_02",
       "heldout_session_count": 48,
       "holdout_subject": "PERSON_VALIDATION_02",
-      "model_id": "v8m_d4_augmented_352::loso_PERSON_VALIDATION_02::outer::alpha_0.1",
+      "model_id": "v8m_d4_final_352::loso_PERSON_VALIDATION_02::outer::alpha_0.1",
       "model_sha256": "116a359bb35b927a3d75825b544f8c51acae72b563dccf704883890ed5c1092c",
       "preprocessing": {
         "imputation": "training-fold feature median",
@@ -678,7 +678,7 @@
       "fold_id": "fixture_stress",
       "heldout_session_count": 16,
       "holdout_subject": "FIXTURE",
-      "model_id": "v8m_d4_augmented_352::fixture_stress::outer::alpha_0.3",
+      "model_id": "v8m_d4_final_352::fixture_stress::outer::alpha_0.3",
       "model_sha256": "8f4458057e6ffa5b9f46b78536bff5187011837e50a2ca230227424dda9818da",
       "preprocessing": {
         "imputation": "training-fold feature median",

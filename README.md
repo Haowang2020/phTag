@@ -39,5 +39,7 @@ saved Ridge outputs, and clips the result to pH 7--10.
 `hfss/u8_sot23_ring_pedot.aedt` is the nominal on-body antenna model used as
 the reference geometry for the Chapter 4 HFSS sweeps. It was created with
 Ansys Electronics Desktop 2025 R1 and includes the simplified layered foot
-loading used in the paper. 
+loading used in the paper.
 
+The HFSS project is not used by `predict.py`, does not generate the example
+reader CSV files, and is not part of the saved Ridge pH prediction model.
